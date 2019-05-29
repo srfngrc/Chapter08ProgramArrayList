@@ -1,0 +1,10 @@
+C:\VSprojects\Chapter08ProgramArrayList\obj\Debug\Chapter08ProgramArrayList.csprojAssemblyReference.cache
+C:\VSprojects\Chapter08ProgramArrayList\obj\Debug\Chapter08ProgramArrayList.frmMain.resources
+C:\VSprojects\Chapter08ProgramArrayList\obj\Debug\Chapter08ProgramArrayList.Properties.Resources.resources
+C:\VSprojects\Chapter08ProgramArrayList\obj\Debug\Chapter08ProgramArrayList.csproj.GenerateResource.cache
+C:\VSprojects\Chapter08ProgramArrayList\obj\Debug\Chapter08ProgramArrayList.csproj.CoreCompileInputs.cache
+C:\VSprojects\Chapter08ProgramArrayList\bin\Debug\Chapter08ProgramArrayList.exe.config
+C:\VSprojects\Chapter08ProgramArrayList\bin\Debug\Chapter08ProgramArrayList.exe
+C:\VSprojects\Chapter08ProgramArrayList\bin\Debug\Chapter08ProgramArrayList.pdb
+C:\VSprojects\Chapter08ProgramArrayList\obj\Debug\Chapter08ProgramArrayList.exe
+C:\VSprojects\Chapter08ProgramArrayList\obj\Debug\Chapter08ProgramArrayList.pdb
