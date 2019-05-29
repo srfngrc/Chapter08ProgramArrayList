@@ -8,3 +8,13 @@ C:\VSprojects\Chapter08ProgramArrayList\bin\Debug\Chapter08ProgramArrayList.exe
 C:\VSprojects\Chapter08ProgramArrayList\bin\Debug\Chapter08ProgramArrayList.pdb
 C:\VSprojects\Chapter08ProgramArrayList\obj\Debug\Chapter08ProgramArrayList.exe
 C:\VSprojects\Chapter08ProgramArrayList\obj\Debug\Chapter08ProgramArrayList.pdb
+C:\VSRepositories\Chapter08ProgramArrayListFINAL\bin\Debug\Chapter08ProgramArrayList.exe.config
+C:\VSRepositories\Chapter08ProgramArrayListFINAL\bin\Debug\Chapter08ProgramArrayList.exe
+C:\VSRepositories\Chapter08ProgramArrayListFINAL\bin\Debug\Chapter08ProgramArrayList.pdb
+C:\VSRepositories\Chapter08ProgramArrayListFINAL\obj\Debug\Chapter08ProgramArrayList.csprojAssemblyReference.cache
+C:\VSRepositories\Chapter08ProgramArrayListFINAL\obj\Debug\Chapter08ProgramArrayList.frmMain.resources
+C:\VSRepositories\Chapter08ProgramArrayListFINAL\obj\Debug\Chapter08ProgramArrayList.Properties.Resources.resources
+C:\VSRepositories\Chapter08ProgramArrayListFINAL\obj\Debug\Chapter08ProgramArrayList.csproj.GenerateResource.cache
+C:\VSRepositories\Chapter08ProgramArrayListFINAL\obj\Debug\Chapter08ProgramArrayList.csproj.CoreCompileInputs.cache
+C:\VSRepositories\Chapter08ProgramArrayListFINAL\obj\Debug\Chapter08ProgramArrayList.exe
+C:\VSRepositories\Chapter08ProgramArrayListFINAL\obj\Debug\Chapter08ProgramArrayList.pdb

@@ -28,8 +28,7 @@ namespace Chapter08ProgramArrayList
         {
             if (txtName.Text.Length != 0)
             {
-                lstNames.Focus();
-                lstNames.ClearSelected();
+                lstNames.Items.Clear();
                 names.Add(txtName.Text); // Add new name
                 txtName.Clear(); // Clear it out
                 txtName.Focus(); // Get ready for another name
